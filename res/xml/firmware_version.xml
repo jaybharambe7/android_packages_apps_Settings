@@ -15,9 +15,9 @@
   limitations under the License.
   -->
 
-    <!-- DroidX logo -->
+    <!-- Pendragon logo -->
     <com.android.settingslib.widget.LayoutPreference
-        android:key="droidx_logo"
+        android:key="pendragon_logo"
         android:layout="@layout/pendragon_logo"
         android:selectable="false"/>
 
