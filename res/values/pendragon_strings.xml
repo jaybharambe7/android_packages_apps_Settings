@@ -16,4 +16,6 @@
 
     <!-- PendragonOS Maintainer -->
     <string name="pendragon_maintainer">Device Maintainer</string>
+    <string name="pendragon_version">Pendragon OS Version</string>
+
 </resources>
