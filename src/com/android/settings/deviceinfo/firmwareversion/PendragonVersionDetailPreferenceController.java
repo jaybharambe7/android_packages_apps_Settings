@@ -39,7 +39,7 @@
      }
  
      public CharSequence getSummary() {
-         String pendragonversion = "13"
+         String pendragonversion = "13";
          return pendragonversion;
      }
  }
