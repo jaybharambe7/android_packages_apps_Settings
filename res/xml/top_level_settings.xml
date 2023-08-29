@@ -22,7 +22,7 @@
 
 
     <!-- Pendragon logo -->
-    <com.android.settingslib.widget.HomepagePreference
+    <com.android.settingslib.widget.LayoutPreference
         android:key="pendragon_logo"
         android:layout="@layout/pendragon_logo"
         android:selectable="false"/>
